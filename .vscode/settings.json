@@ -1,0 +1,6 @@
+{
+    "git.verboseCommit": true,
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "git.useCommitInputAsStashMessage": true,
+    "git.supportCancellation": false
+}
